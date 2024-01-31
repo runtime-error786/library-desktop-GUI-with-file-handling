@@ -51,7 +51,7 @@ git clone https://github.com/your-username/Library-Management-System.git
 To run the Library Management System on your local machine, follow these steps:
 
 Clone the repository:
-git clone https://github.com/your-username/Library-Management-System.git
+git clone https://github.com/your-username/library-desktop-gui.git
 ![image](https://github.com/runtime-error786/library-desktop-gui/assets/123109871/18e9866f-e3c5-4d4c-a030-3cd3c6da2a39)
 ![image](https://github.com/runtime-error786/library-desktop-gui/assets/123109871/faa12e32-6885-4462-b3a2-4f9c55407084)
 ![image](https://github.com/runtime-error786/library-desktop-gui/assets/123109871/e743e259-4300-45b4-afe8-d0f5324adcfa)
