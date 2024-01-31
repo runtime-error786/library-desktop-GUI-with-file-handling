@@ -47,6 +47,7 @@ Technologies Used
 Programming Language: c++
 Database: oracle
 How to Use
+git clone https://github.com/your-username/Library-Management-System.git
 To run the Library Management System on your local machine, follow these steps:
 
 Clone the repository:
